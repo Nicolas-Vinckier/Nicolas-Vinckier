@@ -7,6 +7,19 @@ Je m'appelle Nicolas Vinckier, je suis en alternance en tant que Concepteur Dév
 J'ai fais un BAC PRO SN (Système Numérique) puis un BTS SIO (Services Informatiques aux Organisations).
 Désormais je suis en alternance en tant que Concepteur Développeur D'application Fullstack JAVA dans l'école [Diginamic](https://www.diginamic.fr/).
 
+# Mes statistiques
+
+<!-- 
+Pour avoir une image interactive sur les statistiques github, allez voir le répertoire :
+https://github.com/anuraghazra/github-readme-stats
+-->
+![Nicolas-Vinckier GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier\&layout=compact)
+
+<!-- ![Nicolas-Vinckier stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier\&rank_icon=percentile) -->
+
 # Mes compétences 🛠️
 
 <!-- <img alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -51,9 +64,8 @@ Score : 3/5
 <img alt="Windows" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 Score : 5/5 -->
 
-
-
 <!-- Tableau de compétance -->
+
 | Compétences | Niveau |
 | ----------- | ------ |
 | JAVA        | 3/5    |
@@ -72,8 +84,8 @@ Score : 5/5 -->
 | Linux       | 3/5    |
 | Windows     | 5/5    |
 
-
 <!-- Expliquation des scores -->
+
 ```
 1/5 : Pas encore vu mais je m'y intéresse
 2/5 : Phase d'apprentissage
@@ -81,6 +93,7 @@ Score : 5/5 -->
 4/5 : Je sais faire, et j'ai des projets en cours
 5/5 : Je sais faire, et je maitrise
 ```
+
 
 # Mes projets 🚧
 
