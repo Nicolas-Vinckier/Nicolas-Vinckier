@@ -14,9 +14,7 @@ Pour avoir une image interactive sur les statistiques github, allez voir le rép
 https://github.com/anuraghazra/github-readme-stats
 -->
 
-![Nicolas-Vinckier GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier) -->
+<!-- ![Nicolas-Vinckier GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier&layout=compact)
 
