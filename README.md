@@ -9,23 +9,44 @@ Désormais je suis en alternance en tant que Concepteur Développeur D'applicati
 
 # Mes statistiques 📊
 
-<!-- 
+<!--
 Pour avoir une image interactive sur les statistiques github, allez voir le répertoire :
 https://github.com/anuraghazra/github-readme-stats
 -->
-![Nicolas-Vinckier GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+![Nicolas-Vinckier GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier\&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier&layout=compact)
 
 <!-- ![Nicolas-Vinckier stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier\&rank_icon=percentile) -->
 
 # Mes compétences 🛠️
+<!-- Compétences maitrisées ou en cours d'apprentissage -->
+<img alt="HTML" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="PHP" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img alt="SQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="NodeJS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="Angular" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img alt="VueJS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 
-<img alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img alt="PHP" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /><img alt="HTML" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img alt="CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img alt="SQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img alt="NodeJS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img alt="React" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img alt="Angular" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img alt="VueJS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /><img alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img alt="Linux" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img alt="Windows" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+# Mes outils 🧰
+<img alt="Windows" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img alt="Linux" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img alt="VSCode" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 
-<!-- Tableau de compétance -->
+
+<!--
+Tableau de compétance
 
 | Compétences | Niveau |
 | ----------- | ------ |
@@ -45,7 +66,7 @@ https://github.com/anuraghazra/github-readme-stats
 | Linux       | 3/5    |
 | Windows     | 5/5    |
 
-<!-- Expliquation des scores -->
+Expliquation des scores
 
 ```
 1/5 : Pas encore vu mais je m'y intéresse
@@ -53,12 +74,11 @@ https://github.com/anuraghazra/github-readme-stats
 3/5 : Je sais faire, mais je peux encore m'améliorer
 4/5 : Je sais faire, et j'ai des projets en cours
 5/5 : Je sais faire, et je maitrise
-```
-
+``` -->
 
 # Mes projets 🚧
 
-## HydroGrow 🌿
+> ## HydroGrow 🌿
 
 HydroGrow est un logiciel JAVA spécialisé en Hydroponie, il permettra de gérer son jardin d'intérieur de A à Z.
 
