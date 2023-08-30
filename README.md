@@ -5,7 +5,7 @@ Je m'appelle Nicolas Vinckier, je suis en alternance en tant que Concepteur Dév
 # Mon parcours 🏫
 
 J'ai fais un BAC PRO SN (Système Numérique) puis un BTS SIO (Services Informatiques aux Organisations).
-Désormais je suis en alternance en tant que Concepteur Développeur D'application Fullstack JAVA dans l'école [Diginamic](https://www.diginamic.fr/).
+Désormais je suis en alternance CDA Fullstack JAVA dans l'école [Diginamic](https://www.diginamic.fr/).
 
 # Mes statistiques 📊
 
