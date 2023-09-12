@@ -31,37 +31,6 @@ https://github.com/anuraghazra/github-readme-stats
 
 <img alt="Windows" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /><img alt="Linux" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img alt="GitHub" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img alt="VSCode" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><img alt="Trello" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /><img alt="GoogleCloud" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 
-<!--
-Tableau de compétance
-
-| Compétences | Niveau |
-| ----------- | ------ |
-| JAVA        | 3/5    |
-| PHP         | 2/5    |
-| HTML        | 4/5    |
-| CSS         | 4/5    |
-| SQL         | 3/5    |
-| UML         | 2/5    |
-| Python      | 4/5    |
-| JavaScript  | 2/5    |
-| NodeJS      | 2/5    |
-| React       | 1/5    |
-| Angular     | 1/5    |
-| VueJS       | 1/5    |
-| Git         | 4/5    |
-| Linux       | 3/5    |
-| Windows     | 5/5    |
-
-Expliquation des scores
-
-```
-1/5 : Pas encore vu mais je m'y intéresse
-2/5 : Phase d'apprentissage
-3/5 : Je sais faire, mais je peux encore m'améliorer
-4/5 : Je sais faire, et j'ai des projets en cours
-5/5 : Je sais faire, et je maitrise
-``` -->
-
 # Mes projets 🚧
 
 > ## HydroGrow 🌿
