@@ -39,5 +39,5 @@ HydroGrow est un logiciel JAVA spécialisé en Hydroponie, il permettra de gére
 
 # Mon auto entreprise 👔 : [SudTech-Innovations](https://github.com/SudTech-Innovations)
 
-Je suis auto entrepreneur depuis le 22 mai 2023, dans la création de logiciel.
+Je suis auto entrepreneur depuis **MAI 2023**, dans la création de logiciel.
 Mon projet HydroGrow sera commercialisé sous le nom de SudTech-Innovations.
