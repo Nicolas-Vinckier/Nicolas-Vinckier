@@ -3,6 +3,11 @@
 Je m'appelle Nicolas Vinckier, je suis en alternance en tant que Concepteur Développeur D'application Fullstack JAVA.
 Je suis passionné par l'informatique, les nouvelles technologies, la domotique et l'hydroponie.
 
+# Me contacter 📫
+
+- [Mail](mailto:nicolas.vinckier05@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nicolas-vinckier/)
+
 # Mon parcours 🏫
 
 J'ai fais un BAC PRO SN (Système Numérique) puis un BTS SIO (Services Informatiques aux Organisations).
