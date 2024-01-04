@@ -1,49 +1,38 @@
-# Bonjour 👋
+Bonjour ![👋](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Je m'appelle Nicolas Vinckier
+========================================================================================================================================
 
-Je m'appelle Nicolas Vinckier, je suis en alternance en tant que Concepteur Développeur D'application Fullstack JAVA.
-Je suis passionné par l'informatique, les nouvelles technologies, la domotique et l'hydroponie.
+Concepteur développeur d'application junior
+-------------------------------------------
 
-# Me contacter 📫
+* 🌍  J'habite en France
+* ✉️  Mon addresse de contact : [nicolas.vinckier05@gmail.com](mailto:nicolas.vinckier05@gmail.com)
 
-- [Mail](mailto:nicolas.vinckier05@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/nicolas-vinckier/)
+### Mes compétences
 
-# Mon parcours 🏫
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+                    </p>
 
-J'ai fais un BAC PRO SN (Système Numérique) puis un BTS SIO (Services Informatiques aux Organisations).
-Désormais je suis en alternance CDA Fullstack JAVA dans l'école [Diginamic](https://www.diginamic.fr/).
+### Contact
 
-# Mes statistiques 📊
+<p align="left">
+        <a href="https://www.github.com/Nicolas-Vinckier" target="_blank" rel="noreferrer">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+    </a>
+        <a href="https://www.linkedin.com/in/nicolas-vinckier" target="_blank" rel="noreferrer">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+    </a></p>
 
-<!--
-Pour avoir une image interactive sur les statistiques github, allez voir le répertoire :
-https://github.com/anuraghazra/github-readme-stats
--->
+### Statistiques GitHub
 
-<!-- ![Nicolas-Vinckier GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier&layout=compact)
-
-<!-- ![Nicolas-Vinckier stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier\&rank_icon=percentile) -->
-
-# Mes compétences 🛠️
-
-<!-- Site pour les icones : https://devicon.dev/ -->
-<!-- Compétences maitrisées ou en cours d'apprentissage -->
-
-<img alt="HTML" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img alt="CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img alt="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img alt="PHP" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /><img alt="SQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img alt="JavaScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img alt="NodeJS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img alt="Angular" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /><img alt="YunoHost" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yunohost/yunohost-original.svg" /><img alt="TypeScript" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><img alt="WordPress" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-
-# Mes outils 🧰
-
-<img alt="Windows" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /><img alt="Linux" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" /><img alt="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img alt="GitHub" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img alt="VSCode" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><img alt="Trello" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /><img alt="GoogleCloud" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /><img alt="Docker" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"/><img alt="Filezilla" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-
-# Mes projets 🚧
-
-> ## HydroGrow 🌿
-
-HydroGrow est un logiciel JAVA spécialisé en Hydroponie, il permettra de gérer son jardin d'intérieur de A à Z.
-
-# Mon auto entreprise 👔 : [SudTech-Innovations](https://github.com/SudTech-Innovations)
-
-Je suis auto entrepreneur depuis **MAI 2023**, dans la création de logiciel.
-Mon projet HydroGrow sera commercialisé sous le nom de SudTech-Innovations.
+<a href="http://www.github.com/Nicolas-Vinckier"><img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nicolas-Vinckier's GitHub stats" /></a><a
+    href="http://www.github.com/Nicolas-Vinckier">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Vinckier&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Nicolas-Vinckier" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
