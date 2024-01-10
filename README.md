@@ -23,4 +23,4 @@
 
 <a href="http://www.github.com/Nicolas-Vinckier"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Vinckier&stroke=000000&background=6366f1&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Nicolas-Vinckier" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Nicolas-Vinckier" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier&langs_count=10&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=EDEDED&hide_border=false&locale=fr&custom_title=Top%20%Languages" alt="Top Languages" /></a>
