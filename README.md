@@ -19,7 +19,7 @@
 
 ### Statistiques GitHub
 
-<a href="http://www.github.com/Nicolas-Vinckier"><img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=FFFFFF&hide_border=true&show_icons=true" alt="Nicolas-Vinckier's GitHub stats" /></a>
+<a href="http://www.github.com/Nicolas-Vinckier"><img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=BABABA&hide_border=true&show_icons=true" alt="Nicolas-Vinckier's GitHub stats" /></a>
 
 <a href="http://www.github.com/Nicolas-Vinckier"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Vinckier&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
