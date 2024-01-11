@@ -21,6 +21,6 @@
 
 <a href="http://www.github.com/Nicolas-Vinckier"><img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Vinckier&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=EDEDED&hide_border=false&show_icons=true" alt="Nicolas-Vinckier's GitHub stats" /></a>
 
-<a href="http://www.github.com/Nicolas-Vinckier"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Vinckier&stroke=000000&background=6366f1&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Nicolas-Vinckier"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Vinckier&stroke=000000&background=EDEDED&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Nicolas-Vinckier" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vinckier&langs_count=10&title_color=3382ed&text_color=000000&icon_color=6366f1&bg_color=EDEDED&hide_border=false&locale=fr&custom_title=Top%20%Languages" alt="Top Languages" /></a>
